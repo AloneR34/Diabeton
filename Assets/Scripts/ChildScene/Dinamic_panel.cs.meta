@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3d67f69d7412f334ea1a1f9df3694c42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Panel_Kashi: {fileID: 8553995528314160383, guid: 9a66065081f335c4abc08425ebc0473c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
