@@ -1,0 +1,112 @@
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\TCPServer.exe
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\TCPServer.deps.json
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\TCPServer.runtimeconfig.json
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\TCPServer.runtimeconfig.dev.json
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\TCPServer.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\ref\TCPServer.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\TCPServer.pdb
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.csproj.AssemblyReference.cache
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.AssemblyInfoInputs.cache
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.AssemblyInfo.cs
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.csproj.CoreCompileInputs.cache
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\obj\Debug\net5.0\ref\TCPServer.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.pdb
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.genruntimeconfig.cache
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\MySql.Data.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\ZstdNet.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Diabeton 2\Diabeton_2\TCPServer\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.csproj.CopyComplete
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.csproj.AssemblyReference.cache
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.AssemblyInfoInputs.cache
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.AssemblyInfo.cs
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.csproj.CoreCompileInputs.cache
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\obj\Debug\net5.0\ref\TCPServer.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.pdb
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\TCPServer.exe
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\TCPServer.deps.json
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\TCPServer.runtimeconfig.json
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\TCPServer.runtimeconfig.dev.json
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\TCPServer.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\ref\TCPServer.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\TCPServer.pdb
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\Google.Protobuf.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\M2Mqtt.Net.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\MQTTnet.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\MySql.Data.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\ZstdNet.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.csproj.CopyComplete
+D:\ВолгГТУ\Диплом\ТСР сервак\TCPServer\TCPServer\obj\Debug\net5.0\TCPServer.genruntimeconfig.cache
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\TCPServer.exe
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\TCPServer.deps.json
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\TCPServer.runtimeconfig.json
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\TCPServer.runtimeconfig.dev.json
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\TCPServer.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\ref\TCPServer.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\TCPServer.pdb
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\Google.Protobuf.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\M2Mqtt.Net.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\MQTTnet.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\MySql.Data.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\ZstdNet.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\obj\Debug\net5.0\TCPServer.csproj.AssemblyReference.cache
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\obj\Debug\net5.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\obj\Debug\net5.0\TCPServer.AssemblyInfoInputs.cache
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\obj\Debug\net5.0\TCPServer.AssemblyInfo.cs
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\obj\Debug\net5.0\TCPServer.csproj.CoreCompileInputs.cache
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\obj\Debug\net5.0\TCPServer.csproj.CopyComplete
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\obj\Debug\net5.0\TCPServer.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\obj\Debug\net5.0\ref\TCPServer.dll
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\obj\Debug\net5.0\TCPServer.pdb
+D:\Diabeton 2\Diabeton_2\TCPServer 2.2\TCPServer\obj\Debug\net5.0\TCPServer.genruntimeconfig.cache

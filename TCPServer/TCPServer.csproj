@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="FormMySQL1.cs" />
+    <Compile Remove="FormMySQL1.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Remove="FormMySQL1.resx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="M2Mqtt" Version="4.3.0" />
+    <PackageReference Include="Microsoft.NETCore.App" Version="2.2.8" />
+    <PackageReference Include="MQTTnet" Version="3.1.2" />
+    <PackageReference Include="MySql.Data" Version="8.0.29" />
+    <PackageReference Include="System.Net.Sockets" Version="4.3.0" />
+  </ItemGroup>
+
+</Project>
